@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "4H - z²",
+  "base_artist": "z²",
+  "createdAt": "2025-12-27T07:46:11.919525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "4h",
+      "artist": "Silvana Imam feat. Khan-ji & Fricky",
+      "has_synced": true,
+      "path": "select/01_4h_Silvana_Imam_feat._Khan-ji_&_Fricky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "4H",
+      "artist": "z²",
+      "has_synced": true,
+      "path": "select/02_4H_z2.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "4h (feat. Khan-ji & Fricky)",
+      "artist": "Silvana Imam",
+      "has_synced": true,
+      "path": "select/03_4h_(feat._Khan-ji_&_Fricky)_Silvana_Imam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "4h da Manhã no Recreio",
+      "artist": "ConeCrewDiretoria",
+      "has_synced": true,
+      "path": "select/04_4h_da_Manhã_no_Recreio_ConeCrewDiretoria.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "4H du mat",
+      "artist": "Jaïa Rose",
+      "has_synced": true,
+      "path": "select/05_4H_du_mat_Jaïa_Rose.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "El 4h",
+      "artist": "Luis Mexia",
+      "has_synced": false,
+      "path": "select/06_El_4h_Luis_Mexia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "4h da manhã",
+      "artist": "Urca",
+      "has_synced": false,
+      "path": "select/07_4h_da_manhã_Urca.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": ".4h du mat.",
+      "artist": "Lushe",
+      "has_synced": true,
+      "path": "select/08_.4h_du_mat._Lushe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "4H",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_4H_z2.txt"
+    }
+  ]
+}
